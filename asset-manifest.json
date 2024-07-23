@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.0577397c.css",
-    "main.js": "./static/js/main.0d2ace02.js",
+    "main.css": "./static/css/main.cfa32e6c.css",
+    "main.js": "./static/js/main.5c97da64.js",
+    "static/media/banner-tablets.png": "./static/media/banner-tablets.3ab0c9b71cae9e04b094.png",
+    "static/media/banner-accessories.png": "./static/media/banner-accessories.e47d6d6df68a6548e82b.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/banner-new-phone.png": "./static/media/banner-new-phone.bd75605b54eacca581e7.png",
     "index.html": "./index.html",
-    "main.0577397c.css.map": "./static/css/main.0577397c.css.map",
-    "main.0d2ace02.js.map": "./static/js/main.0d2ace02.js.map"
+    "main.cfa32e6c.css.map": "./static/css/main.cfa32e6c.css.map",
+    "main.5c97da64.js.map": "./static/js/main.5c97da64.js.map"
   },
   "entrypoints": [
-    "static/css/main.0577397c.css",
-    "static/js/main.0d2ace02.js"
+    "static/css/main.cfa32e6c.css",
+    "static/js/main.5c97da64.js"
   ]
 }
